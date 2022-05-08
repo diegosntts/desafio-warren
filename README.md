@@ -1,7 +1,2 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/fagnerpsantos)
 
-- 🔭 I’m currently working on [Desafio Warren](https://github.com/diegosntts/desafio-warren)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
