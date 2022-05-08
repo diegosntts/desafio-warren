@@ -15,7 +15,7 @@ Projeto feito na Linguagem Javascript.
 
 1.  **Start developing.**
 
-    Navegue até o diretório do seu novo e inicie-o.
+    Navegue até o diretório do seu projeto e inicie-o.
 
     ```shell
     cd ProjetoWarren/
