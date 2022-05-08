@@ -1,6 +1,6 @@
 <div>
   ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-<div/>
+</div>
 
 <h1 align="center">
   Desafio Warren
