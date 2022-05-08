@@ -1,4 +1,7 @@
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+<div>
+  ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+<div/>
+
 <h1 align="center">
   Desafio Warren
 </h1>
