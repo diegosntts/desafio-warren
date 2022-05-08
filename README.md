@@ -11,7 +11,7 @@ Projeto feito na Linguagem Javascript.
 
     ```shell
     cd ProjetoWarren/
-    node *Nome do arquivo*
+    node Nome do arquivo
     ```
 
 
