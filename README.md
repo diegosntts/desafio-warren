@@ -23,7 +23,7 @@
 
     ```shell
     cd ProjetoWarren/
-    node Nome do arquivo
+    node nomearquivo
     ```
 
 
