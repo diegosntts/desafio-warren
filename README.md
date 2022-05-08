@@ -17,7 +17,7 @@
 
 ## 🚀 Começando
 
-1.  **Start developing.**
+**Start developing.**
 
     Navegue até o diretório do seu projeto e inicie-o.
 
