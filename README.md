@@ -20,11 +20,8 @@
 **Start developing.**
 
     Navegue até o diretório do seu projeto e inicie-o.
-
-    ```shell
     cd ProjetoWarren/
     node nomearquivo
-    ```
 
 
 
